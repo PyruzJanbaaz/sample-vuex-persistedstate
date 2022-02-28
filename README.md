@@ -23,4 +23,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://www.npmjs.com/package/vuex-persistedstate).
