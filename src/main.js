@@ -8,4 +8,4 @@ import "bootstrap"
 createApp(App)
     .use(Vuex)
     .use(store)
-    .mount('#app')
+    .mount('#app');
